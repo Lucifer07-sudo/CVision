@@ -1,0 +1,12 @@
+names:
+- licence
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: anpr2-syxl7
+  url: https://universe.roboflow.com/arvind-kumar-wjygd/anpr2-syxl7/dataset/8
+  version: 8
+  workspace: arvind-kumar-wjygd
+test: /content/yolov9/ANPR2-8/test/images
+train: /content/yolov9/ANPR2-8/train/images
+val: /content/yolov9/ANPR2-8/valid/images
